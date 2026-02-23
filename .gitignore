@@ -16,9 +16,7 @@ pythonenv*
 # Streamlit
 .streamlit/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+
 
 # Model files
 *.pkl
