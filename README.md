@@ -1,7 +1,7 @@
 # 🏠 HomeValue Insight Predictor 
 ### Intelligent California House Price Prediction System
 
-![Banner](app/assets/images/banner.png)
+![Banner](app/assets/images/001.png)
 
 ---
 
